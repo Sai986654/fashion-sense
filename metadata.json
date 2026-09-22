@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Create & Edit Images",
+  "description": "Generate and edit images from text prompts with Gemini 3.1 Flash Image.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
